@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  my-app:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2020-05-16T17:34:23.080637833+05:30"
+    description: A Helm chart for Kubernetes
+    digest: 93956e186426ca38ba7fff9ca4f1a1643b3d26cee61f57b9ab0e51b51dcff6aa
+    name: my-app
+    urls:
+    - https://kavaka123.github.io/github-pages-sites/my-app-0.1.0.tgz
+    version: 0.1.0
+generated: "2020-05-16T17:34:23.080067464+05:30"
